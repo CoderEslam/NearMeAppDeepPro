@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759009424846",
+    "project_id": "nearmeappdeeppro",
+    "storage_bucket": "nearmeappdeeppro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759009424846:android:32927d3cd634296c6be79f",
+        "android_client_info": {
+          "package_name": "com.doubleclick.nearmeappdeeppro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759009424846-t9kgrgrgjdsim2236h9utnrj1ho1c3j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2qoHPtATiiencCj4Rrqpcq1kLaJ9TNNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759009424846-t9kgrgrgjdsim2236h9utnrj1ho1c3j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
